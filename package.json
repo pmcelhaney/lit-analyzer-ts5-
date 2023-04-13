@@ -1,0 +1,16 @@
+{
+  "name": "lit-analyzer-ts5",
+  "version": "1.0.0",
+  "description": "test lit-analyzer with Typescript 5",
+  "main": "index.js",
+  "scripts": {
+    "test": "lit-analyzer importer.ts --strict"
+  },
+  "author": "Patrick McElhaney",
+  "license": "ISC",
+  "dependencies": {
+    "lit": "^2.7.2",
+    "lit-analyzer": "^1.2.1",
+    "typescript": "^5.0.4"
+  }
+}

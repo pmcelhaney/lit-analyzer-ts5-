@@ -1,0 +1,1 @@
+customElements.define("test-imported", HTMLElement)
